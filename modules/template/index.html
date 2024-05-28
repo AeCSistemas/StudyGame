@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stude Game - Home</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo ao Study Game!</h1>
+        <p>Aqui você pode acompanhar seus pontos, trocar por recompensas e muito mais!</p>
+
+        <h2>Seja Bem-Vindo, {{ session.get('user_id') }}!</h2>  
+        <a href="/logout" class="btn btn-primary">Logout</a>
+    </div>
+</body>
+</html>
