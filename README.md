@@ -1,6 +1,9 @@
 Projeto Study Game
 Incentivando o Sucesso Escolar e Conectando com o Empresariado Local
 
+![image](https://github.com/AeCSistemas/StudyGame/assets/35645798/670daef5-975f-45cf-b020-6a51a20dc793)
+
+
 Objetivo:
 O projeto "Study Game" tem como objetivo conectar alunos (crianças e adolescentes) com o empresariado local através de um sistema inovador de recompensas baseado em notas escolares. 
 A plataforma utiliza Inteligência Artificial (IA) para facilitar o envio das notas, tornando o processo simples e intuitivo, bastando apenas uma foto do boletim.
