@@ -55,6 +55,11 @@ Durante o diálogo, o Sr. Anderson compartilhou sua percepção sobre a realidad
 O Sr. Anderson expressou a necessidade de identificar e reconhecer o esforço de alunos e famílias que se dedicam à educação, mesmo diante das adversidades. Ele argumentou que um sistema de apoio e incentivo poderia ter um impacto positivo na motivação dos estudantes, impulsionando o desempenho escolar e a busca por um futuro mais promissor.
 Essa conversa, permeada por genuína preocupação com a comunidade, despertou a ideia para o desenvolvimento do projeto "Study Game". A partir da percepção das necessidades e dos desafios da realidade local, o projeto se propõe a ser uma ferramenta inovadora para conectar alunos com o empresariado local, transformando notas em recompensas e criando um ciclo virtuoso de aprendizado, reconhecimento e oportunidades.
 
+
+![image](https://github.com/AeCSistemas/StudyGame/assets/35645798/efcb3367-4359-4122-b9cc-a20da2c63f96)
+
+
+
 Foram realizadas também algumas questões, onde aprofundamos no tema: 
 Questionário:
 1. Você conhece alguma criança ou família que se esforça para ter uma boa educação, mas enfrenta dificuldades para ter acesso a recursos como livros, cursos ou atividades extracurriculares?
